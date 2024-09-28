@@ -1,5 +1,5 @@
 # BLOCKCHAIN ANALYZER
 
-> [!WARINING]
+> [!WARNING]
 > This app is under development
 
